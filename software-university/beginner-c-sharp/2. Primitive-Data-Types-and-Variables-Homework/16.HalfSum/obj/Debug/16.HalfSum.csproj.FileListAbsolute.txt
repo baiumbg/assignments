@@ -1,0 +1,6 @@
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\HalfSum\bin\Debug\HalfSum.exe.config
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\HalfSum\bin\Debug\HalfSum.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\HalfSum\bin\Debug\HalfSum.pdb
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\HalfSum\obj\Debug\16.HalfSum.csprojResolveAssemblyReference.cache
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\HalfSum\obj\Debug\HalfSum.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\HalfSum\obj\Debug\HalfSum.pdb

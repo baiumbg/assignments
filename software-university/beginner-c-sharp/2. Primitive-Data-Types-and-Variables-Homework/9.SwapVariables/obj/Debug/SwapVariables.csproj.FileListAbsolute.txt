@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\SwapVariables\bin\Debug\SwapVariables.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\SwapVariables\bin\Debug\SwapVariables.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\SwapVariables\bin\Debug\SwapVariables.pdb
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\SwapVariables\obj\Debug\SwapVariables.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\SwapVariables\obj\Debug\SwapVariables.pdb

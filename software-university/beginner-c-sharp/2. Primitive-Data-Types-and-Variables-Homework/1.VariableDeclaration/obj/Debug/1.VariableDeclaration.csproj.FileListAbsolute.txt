@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\VariableDeclaration\bin\Debug\VariableDeclaration.exe.config
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\VariableDeclaration\obj\Debug\VariableDeclaration.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\VariableDeclaration\obj\Debug\VariableDeclaration.pdb
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\VariableDeclaration\bin\Debug\VariableDeclaration.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\VariableDeclaration\bin\Debug\VariableDeclaration.pdb

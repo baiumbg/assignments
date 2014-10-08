@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\08.CheckForPrime\bin\Debug\08.CheckForPrime.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\08.CheckForPrime\bin\Debug\08.CheckForPrime.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\08.CheckForPrime\bin\Debug\08.CheckForPrime.pdb
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\08.CheckForPrime\obj\Debug\08.CheckForPrime.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\08.CheckForPrime\obj\Debug\08.CheckForPrime.pdb

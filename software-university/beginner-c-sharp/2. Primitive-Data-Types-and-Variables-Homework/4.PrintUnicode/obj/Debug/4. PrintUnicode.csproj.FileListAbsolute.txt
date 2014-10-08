@@ -1,0 +1,3 @@
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintUnicode\bin\Debug\PrintUnicode.exe.config
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintUnicode\obj\Debug\PrintUnicode.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintUnicode\obj\Debug\PrintUnicode.pdb

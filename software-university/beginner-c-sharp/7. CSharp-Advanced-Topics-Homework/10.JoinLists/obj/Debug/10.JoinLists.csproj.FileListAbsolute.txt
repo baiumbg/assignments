@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\10.JoinLists\bin\Debug\10.JoinLists.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\10.JoinLists\bin\Debug\10.JoinLists.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\10.JoinLists\bin\Debug\10.JoinLists.pdb
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\10.JoinLists\obj\Debug\10.JoinLists.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\10.JoinLists\obj\Debug\10.JoinLists.pdb

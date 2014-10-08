@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\12.CountOfNames\bin\Debug\12.CountOfNames.exe.config
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\12.CountOfNames\bin\Debug\12.CountOfNames.exe
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\12.CountOfNames\bin\Debug\12.CountOfNames.pdb
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\12.CountOfNames\obj\Debug\12.CountOfNames.exe
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\12.CountOfNames\obj\Debug\12.CountOfNames.pdb

@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\18.OddEvenSum\bin\Debug\18.OddEvenSum.exe.config
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\18.OddEvenSum\bin\Debug\18.OddEvenSum.exe
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\18.OddEvenSum\bin\Debug\18.OddEvenSum.pdb
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\18.OddEvenSum\obj\Debug\18.OddEvenSum.exe
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\18.OddEvenSum\obj\Debug\18.OddEvenSum.pdb

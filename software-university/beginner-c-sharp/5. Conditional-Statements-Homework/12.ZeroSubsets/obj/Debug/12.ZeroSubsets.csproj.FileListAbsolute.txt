@@ -1,0 +1,6 @@
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\12.ZeroSubsets\bin\Debug\12.ZeroSubsets.exe.config
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\12.ZeroSubsets\bin\Debug\12.ZeroSubsets.exe
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\12.ZeroSubsets\bin\Debug\12.ZeroSubsets.pdb
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\12.ZeroSubsets\obj\Debug\12.ZeroSubsets.exe
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\12.ZeroSubsets\obj\Debug\12.ZeroSubsets.pdb
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\12.ZeroSubsets\obj\Debug\12.ZeroSubsets.csprojResolveAssemblyReference.cache

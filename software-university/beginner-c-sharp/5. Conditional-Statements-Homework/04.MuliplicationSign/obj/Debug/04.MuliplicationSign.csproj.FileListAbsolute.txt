@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\04.MuliplicationSign\bin\Debug\04.MuliplicationSign.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\04.MuliplicationSign\bin\Debug\04.MuliplicationSign.exe
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\04.MuliplicationSign\bin\Debug\04.MuliplicationSign.pdb
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\04.MuliplicationSign\obj\Debug\04.MuliplicationSign.exe
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\04.MuliplicationSign\obj\Debug\04.MuliplicationSign.pdb

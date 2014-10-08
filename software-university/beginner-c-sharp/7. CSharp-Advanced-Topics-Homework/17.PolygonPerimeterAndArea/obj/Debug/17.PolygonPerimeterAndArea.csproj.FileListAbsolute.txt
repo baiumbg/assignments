@@ -1,0 +1,6 @@
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\17.PolygonPerimeterAndArea\bin\Debug\17.PolygonPerimeterAndArea.exe.config
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\17.PolygonPerimeterAndArea\bin\Debug\17.PolygonPerimeterAndArea.exe
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\17.PolygonPerimeterAndArea\bin\Debug\17.PolygonPerimeterAndArea.pdb
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\17.PolygonPerimeterAndArea\obj\Debug\17.PolygonPerimeterAndArea.csprojResolveAssemblyReference.cache
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\17.PolygonPerimeterAndArea\obj\Debug\17.PolygonPerimeterAndArea.exe
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\17.PolygonPerimeterAndArea\obj\Debug\17.PolygonPerimeterAndArea.pdb

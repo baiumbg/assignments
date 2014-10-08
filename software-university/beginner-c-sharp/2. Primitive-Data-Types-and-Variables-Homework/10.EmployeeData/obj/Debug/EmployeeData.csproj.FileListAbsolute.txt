@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\EmployeeData\bin\Debug\EmployeeData.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\EmployeeData\bin\Debug\EmployeeData.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\EmployeeData\bin\Debug\EmployeeData.pdb
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\EmployeeData\obj\Debug\EmployeeData.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\EmployeeData\obj\Debug\EmployeeData.pdb

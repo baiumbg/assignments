@@ -1,0 +1,5 @@
+C:\Users\Veso\documents\visual studio 2013\Projects\6. Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
+C:\Users\Veso\documents\visual studio 2013\Projects\6. Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+C:\Users\Veso\documents\visual studio 2013\Projects\6. Loops-Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+C:\Users\Veso\documents\visual studio 2013\Projects\6. Loops-Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+C:\Users\Veso\documents\visual studio 2013\Projects\6. Loops-Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb

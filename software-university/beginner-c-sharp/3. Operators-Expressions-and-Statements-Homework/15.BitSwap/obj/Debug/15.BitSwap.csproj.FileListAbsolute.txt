@@ -1,0 +1,6 @@
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\15.BitSwap\bin\Debug\15.BitSwap.exe.config
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\15.BitSwap\bin\Debug\15.BitSwap.exe
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\15.BitSwap\bin\Debug\15.BitSwap.pdb
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\15.BitSwap\obj\Debug\15.BitSwap.csprojResolveAssemblyReference.cache
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\15.BitSwap\obj\Debug\15.BitSwap.exe
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\15.BitSwap\obj\Debug\15.BitSwap.pdb

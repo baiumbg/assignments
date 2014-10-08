@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\13.AverageLoadTime\bin\Debug\13.AverageLoadTime.exe.config
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\13.AverageLoadTime\bin\Debug\13.AverageLoadTime.exe
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\13.AverageLoadTime\bin\Debug\13.AverageLoadTime.pdb
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\13.AverageLoadTime\obj\Debug\13.AverageLoadTime.exe
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\13.AverageLoadTime\obj\Debug\13.AverageLoadTime.pdb

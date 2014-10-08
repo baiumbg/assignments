@@ -1,0 +1,6 @@
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\01.OddOrEven\bin\Debug\01.OddOrEven.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\01.OddOrEven\bin\Debug\01.OddOrEven.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\01.OddOrEven\bin\Debug\01.OddOrEven.pdb
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\01.OddOrEven\obj\Debug\01.OddOrEven.csprojResolveAssemblyReference.cache
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\01.OddOrEven\obj\Debug\01.OddOrEven.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\01.OddOrEven\obj\Debug\01.OddOrEven.pdb

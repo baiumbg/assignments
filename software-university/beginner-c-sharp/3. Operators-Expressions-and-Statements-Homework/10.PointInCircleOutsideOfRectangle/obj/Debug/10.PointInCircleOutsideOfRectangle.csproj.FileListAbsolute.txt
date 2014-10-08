@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\10.PointInCircleOutsideOfRectangle\bin\Debug\10.PointInCircleOutsideOfRectangle.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\10.PointInCircleOutsideOfRectangle\bin\Debug\10.PointInCircleOutsideOfRectangle.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\10.PointInCircleOutsideOfRectangle\bin\Debug\10.PointInCircleOutsideOfRectangle.pdb
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\10.PointInCircleOutsideOfRectangle\obj\Debug\10.PointInCircleOutsideOfRectangle.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\10.PointInCircleOutsideOfRectangle\obj\Debug\10.PointInCircleOutsideOfRectangle.pdb

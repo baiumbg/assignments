@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe.config
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\11.CountOfLetters\bin\Debug\11.CountOfLetters.pdb
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\11.CountOfLetters\obj\Debug\11.CountOfLetters.exe
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\11.CountOfLetters\obj\Debug\11.CountOfLetters.pdb

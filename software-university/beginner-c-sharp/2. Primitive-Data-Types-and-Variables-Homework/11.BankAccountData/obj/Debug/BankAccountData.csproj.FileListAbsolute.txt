@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\BankAccountData\bin\Debug\BankAccountData.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\BankAccountData\bin\Debug\BankAccountData.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\BankAccountData\bin\Debug\BankAccountData.pdb
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\BankAccountData\obj\Debug\BankAccountData.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\BankAccountData\obj\Debug\BankAccountData.pdb

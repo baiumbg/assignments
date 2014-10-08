@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\FloatOrDouble\bin\Debug\FloatOrDouble.pdb

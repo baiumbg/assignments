@@ -1,0 +1,6 @@
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\15.House\bin\Debug\15.House.exe.config
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\15.House\bin\Debug\15.House.exe
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\15.House\bin\Debug\15.House.pdb
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\15.House\obj\Debug\15.House.csprojResolveAssemblyReference.cache
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\15.House\obj\Debug\15.House.exe
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\15.House\obj\Debug\15.House.pdb

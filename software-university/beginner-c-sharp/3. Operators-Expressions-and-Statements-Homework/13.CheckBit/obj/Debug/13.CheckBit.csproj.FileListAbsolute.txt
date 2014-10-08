@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\13.CheckBit\bin\Debug\13.CheckBit.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\13.CheckBit\bin\Debug\13.CheckBit.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\13.CheckBit\bin\Debug\13.CheckBit.pdb
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\13.CheckBit\obj\Debug\13.CheckBit.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\13.CheckBit\obj\Debug\13.CheckBit.pdb

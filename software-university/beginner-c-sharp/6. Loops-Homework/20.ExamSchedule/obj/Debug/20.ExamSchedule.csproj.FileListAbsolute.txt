@@ -1,0 +1,5 @@
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\20.ExamSchedule\bin\Debug\20.ExamSchedule.exe.config
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\20.ExamSchedule\bin\Debug\20.ExamSchedule.exe
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\20.ExamSchedule\bin\Debug\20.ExamSchedule.pdb
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\20.ExamSchedule\obj\Debug\20.ExamSchedule.exe
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\20.ExamSchedule\obj\Debug\20.ExamSchedule.pdb

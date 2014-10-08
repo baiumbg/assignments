@@ -1,0 +1,5 @@
+E:\Projects\4. Console-Input-Output-Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+E:\Projects\4. Console-Input-Output-Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+E:\Projects\4. Console-Input-Output-Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+E:\Projects\4. Console-Input-Output-Homework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+E:\Projects\4. Console-Input-Output-Homework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintInHex\bin\Debug\PrintInHex.exe.config
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintInHex\obj\Debug\PrintInHex.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintInHex\obj\Debug\PrintInHex.pdb
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintInHex\bin\Debug\PrintInHex.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintInHex\bin\Debug\PrintInHex.pdb

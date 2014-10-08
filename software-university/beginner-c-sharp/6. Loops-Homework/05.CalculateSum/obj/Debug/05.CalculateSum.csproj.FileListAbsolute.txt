@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\05.CalculateSum\bin\Debug\05.CalculateSum.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\05.CalculateSum\bin\Debug\05.CalculateSum.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\05.CalculateSum\bin\Debug\05.CalculateSum.pdb
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\05.CalculateSum\obj\Debug\05.CalculateSum.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\05.CalculateSum\obj\Debug\05.CalculateSum.pdb

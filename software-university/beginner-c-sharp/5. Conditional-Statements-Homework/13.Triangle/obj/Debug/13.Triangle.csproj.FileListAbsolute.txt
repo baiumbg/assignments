@@ -1,0 +1,3 @@
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\13.Triangle\bin\Debug\Triangle.exe.config
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\13.Triangle\obj\Debug\Triangle.exe
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\13.Triangle\obj\Debug\Triangle.pdb

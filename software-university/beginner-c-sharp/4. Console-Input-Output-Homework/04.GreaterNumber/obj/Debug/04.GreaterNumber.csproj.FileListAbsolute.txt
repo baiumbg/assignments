@@ -1,0 +1,5 @@
+E:\Projects\4. Console-Input-Output-Homework\04.GreaterNumber\bin\Debug\04.GreaterNumber.exe.config
+E:\Projects\4. Console-Input-Output-Homework\04.GreaterNumber\bin\Debug\04.GreaterNumber.exe
+E:\Projects\4. Console-Input-Output-Homework\04.GreaterNumber\bin\Debug\04.GreaterNumber.pdb
+E:\Projects\4. Console-Input-Output-Homework\04.GreaterNumber\obj\Debug\04.GreaterNumber.exe
+E:\Projects\4. Console-Input-Output-Homework\04.GreaterNumber\obj\Debug\04.GreaterNumber.pdb

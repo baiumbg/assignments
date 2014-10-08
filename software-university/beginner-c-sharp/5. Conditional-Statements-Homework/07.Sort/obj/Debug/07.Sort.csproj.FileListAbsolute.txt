@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\07.Sort\bin\Debug\07.Sort.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\07.Sort\bin\Debug\07.Sort.exe
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\07.Sort\bin\Debug\07.Sort.pdb
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\07.Sort\obj\Debug\07.Sort.exe
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\07.Sort\obj\Debug\07.Sort.pdb

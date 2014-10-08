@@ -1,0 +1,6 @@
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\19.TheExplorer\bin\Debug\19.TheExplorer.exe.config
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\19.TheExplorer\bin\Debug\19.TheExplorer.exe
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\19.TheExplorer\bin\Debug\19.TheExplorer.pdb
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\19.TheExplorer\obj\Debug\19.TheExplorer.csprojResolveAssemblyReference.cache
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\19.TheExplorer\obj\Debug\19.TheExplorer.exe
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\19.TheExplorer\obj\Debug\19.TheExplorer.pdb

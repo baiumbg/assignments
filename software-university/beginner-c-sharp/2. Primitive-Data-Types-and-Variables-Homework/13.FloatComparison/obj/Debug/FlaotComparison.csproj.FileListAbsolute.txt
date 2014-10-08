@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\FlaotComparison\bin\Debug\FlaotComparison.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\FlaotComparison\bin\Debug\FlaotComparison.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\FlaotComparison\bin\Debug\FlaotComparison.pdb
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\FlaotComparison\obj\Debug\FlaotComparison.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\FlaotComparison\obj\Debug\FlaotComparison.pdb

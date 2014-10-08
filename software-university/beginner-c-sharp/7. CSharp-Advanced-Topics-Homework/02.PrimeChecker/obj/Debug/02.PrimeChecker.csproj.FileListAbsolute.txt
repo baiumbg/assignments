@@ -1,0 +1,6 @@
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\02.PrimeChecker\obj\Debug\02.PrimeChecker.csprojResolveAssemblyReference.cache

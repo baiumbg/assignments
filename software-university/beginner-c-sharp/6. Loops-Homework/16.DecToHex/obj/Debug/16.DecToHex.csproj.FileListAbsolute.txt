@@ -1,0 +1,5 @@
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\16.DecToHex\bin\Debug\16.DecToHex.exe.config
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\16.DecToHex\bin\Debug\16.DecToHex.exe
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\16.DecToHex\bin\Debug\16.DecToHex.pdb
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\16.DecToHex\obj\Debug\16.DecToHex.exe
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\16.DecToHex\obj\Debug\16.DecToHex.pdb

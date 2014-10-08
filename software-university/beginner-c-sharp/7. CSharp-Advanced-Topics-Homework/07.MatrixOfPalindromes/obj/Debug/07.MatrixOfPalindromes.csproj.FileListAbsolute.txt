@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.pdb
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb

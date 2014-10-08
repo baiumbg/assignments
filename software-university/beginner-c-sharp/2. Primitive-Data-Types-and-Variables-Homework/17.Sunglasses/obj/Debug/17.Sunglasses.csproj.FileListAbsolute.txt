@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\17.Sunglasses\bin\Debug\17.Sunglasses.exe.config
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\17.Sunglasses\bin\Debug\17.Sunglasses.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\17.Sunglasses\bin\Debug\17.Sunglasses.pdb
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\17.Sunglasses\obj\Debug\17.Sunglasses.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\17.Sunglasses\obj\Debug\17.Sunglasses.pdb

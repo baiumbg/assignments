@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\09.PrintMatrix\bin\Debug\09.PrintMatrix.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\09.PrintMatrix\bin\Debug\09.PrintMatrix.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\09.PrintMatrix\bin\Debug\09.PrintMatrix.pdb
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\09.PrintMatrix\obj\Debug\09.PrintMatrix.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\09.PrintMatrix\obj\Debug\09.PrintMatrix.pdb

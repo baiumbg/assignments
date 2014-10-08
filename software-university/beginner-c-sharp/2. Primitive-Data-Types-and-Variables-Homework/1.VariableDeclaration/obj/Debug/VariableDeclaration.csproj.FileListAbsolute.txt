@@ -1,0 +1,6 @@
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\VariableDeclaration\bin\Debug\VariableDeclaration.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\VariableDeclaration\bin\Debug\VariableDeclaration.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\VariableDeclaration\bin\Debug\VariableDeclaration.pdb
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\VariableDeclaration\obj\Debug\VariableDeclaration.csprojResolveAssemblyReference.cache
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\VariableDeclaration\obj\Debug\VariableDeclaration.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\VariableDeclaration\obj\Debug\VariableDeclaration.pdb

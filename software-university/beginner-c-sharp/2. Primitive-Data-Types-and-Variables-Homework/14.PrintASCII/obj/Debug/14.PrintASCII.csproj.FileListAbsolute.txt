@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\bin\Debug\PrintASCII.exe.config
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\obj\Debug\PrintASCII.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\obj\Debug\PrintASCII.pdb
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\bin\Debug\PrintASCII.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\bin\Debug\PrintASCII.pdb

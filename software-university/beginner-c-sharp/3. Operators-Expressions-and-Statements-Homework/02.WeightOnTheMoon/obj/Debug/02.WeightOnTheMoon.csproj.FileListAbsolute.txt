@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\02.WeightOnTheMoon\bin\Debug\02.WeightOnTheMoon.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\02.WeightOnTheMoon\bin\Debug\02.WeightOnTheMoon.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\02.WeightOnTheMoon\bin\Debug\02.WeightOnTheMoon.pdb
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\02.WeightOnTheMoon\obj\Debug\02.WeightOnTheMoon.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\02.WeightOnTheMoon\obj\Debug\02.WeightOnTheMoon.pdb

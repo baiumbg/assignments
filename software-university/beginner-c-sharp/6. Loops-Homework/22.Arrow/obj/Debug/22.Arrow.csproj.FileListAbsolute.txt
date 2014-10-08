@@ -1,0 +1,5 @@
+C:\Users\Veso\documents\visual studio 2013\Projects\6. Loops-Homework\22.Arrow\bin\Debug\22.Arrow.exe.config
+C:\Users\Veso\documents\visual studio 2013\Projects\6. Loops-Homework\22.Arrow\bin\Debug\22.Arrow.exe
+C:\Users\Veso\documents\visual studio 2013\Projects\6. Loops-Homework\22.Arrow\bin\Debug\22.Arrow.pdb
+C:\Users\Veso\documents\visual studio 2013\Projects\6. Loops-Homework\22.Arrow\obj\Debug\22.Arrow.exe
+C:\Users\Veso\documents\visual studio 2013\Projects\6. Loops-Homework\22.Arrow\obj\Debug\22.Arrow.pdb

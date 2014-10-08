@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\06.CalculateDivision\bin\Debug\06.CalculateDivision.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\06.CalculateDivision\bin\Debug\06.CalculateDivision.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\06.CalculateDivision\bin\Debug\06.CalculateDivision.pdb
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\06.CalculateDivision\obj\Debug\06.CalculateDivision.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\06.CalculateDivision\obj\Debug\06.CalculateDivision.pdb

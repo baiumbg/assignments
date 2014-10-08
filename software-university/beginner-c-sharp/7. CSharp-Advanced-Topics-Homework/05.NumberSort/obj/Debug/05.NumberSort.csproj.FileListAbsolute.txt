@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\05.NumberSort\bin\Debug\05.NumberSort.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\05.NumberSort\bin\Debug\05.NumberSort.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\05.NumberSort\bin\Debug\05.NumberSort.pdb
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\05.NumberSort\obj\Debug\05.NumberSort.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\05.NumberSort\obj\Debug\05.NumberSort.pdb

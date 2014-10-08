@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\HelloWorldObject\bin\Debug\HelloWorldObject.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\HelloWorldObject\bin\Debug\HelloWorldObject.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\HelloWorldObject\bin\Debug\HelloWorldObject.pdb
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\HelloWorldObject\obj\Debug\HelloWorldObject.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\HelloWorldObject\obj\Debug\HelloWorldObject.pdb

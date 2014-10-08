@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.pdb
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.pdb

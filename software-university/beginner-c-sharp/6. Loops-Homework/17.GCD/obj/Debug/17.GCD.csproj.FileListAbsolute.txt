@@ -1,0 +1,5 @@
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\17.GCD\bin\Debug\17.GCD.exe.config
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\17.GCD\bin\Debug\17.GCD.exe
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\17.GCD\bin\Debug\17.GCD.pdb
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\17.GCD\obj\Debug\17.GCD.exe
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\17.GCD\obj\Debug\17.GCD.pdb

@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

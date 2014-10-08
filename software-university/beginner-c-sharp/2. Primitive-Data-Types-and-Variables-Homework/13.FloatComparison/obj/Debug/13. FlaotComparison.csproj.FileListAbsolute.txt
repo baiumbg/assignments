@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\FlaotComparison\bin\Debug\FlaotComparison.exe.config
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\FlaotComparison\obj\Debug\FlaotComparison.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\FlaotComparison\obj\Debug\FlaotComparison.pdb
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\FlaotComparison\bin\Debug\FlaotComparison.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\FlaotComparison\bin\Debug\FlaotComparison.pdb

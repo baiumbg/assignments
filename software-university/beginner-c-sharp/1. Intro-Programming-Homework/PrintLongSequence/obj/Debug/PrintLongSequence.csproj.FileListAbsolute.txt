@@ -1,0 +1,5 @@
+E:\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+E:\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+E:\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+E:\Projects\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+E:\Projects\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

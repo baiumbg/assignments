@@ -1,0 +1,12 @@
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\11.NumberToWords\bin\Debug\11.NumberToWords.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\11.NumberToWords\bin\Debug\11.NumberToWords.exe
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\11.NumberToWords\bin\Debug\11.NumberToWords.pdb
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\11.NumberToWords\obj\Debug\11.NumberToWords.csprojResolveAssemblyReference.cache
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\11.NumberToWords\obj\Debug\11.NumberToWords.exe
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\11.NumberToWords\obj\Debug\11.NumberToWords.pdb
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\11.NumberToWords\bin\Debug\11.NumberToWords.exe.config
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\11.NumberToWords\obj\Debug\11.NumberToWords.exe
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\11.NumberToWords\obj\Debug\11.NumberToWords.pdb
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\11.NumberToWords\bin\Debug\11.NumberToWords.exe
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\11.NumberToWords\bin\Debug\11.NumberToWords.pdb
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\11.NumberToWords\obj\Debug\11.NumberToWords.csprojResolveAssemblyReference.cache

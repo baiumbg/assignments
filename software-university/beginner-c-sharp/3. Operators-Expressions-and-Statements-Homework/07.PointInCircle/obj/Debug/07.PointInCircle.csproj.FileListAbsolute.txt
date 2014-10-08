@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\07.PointInCircle\bin\Debug\07.PointInCircle.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\07.PointInCircle\bin\Debug\07.PointInCircle.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\07.PointInCircle\bin\Debug\07.PointInCircle.pdb
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\07.PointInCircle\obj\Debug\07.PointInCircle.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\07.PointInCircle\obj\Debug\07.PointInCircle.pdb

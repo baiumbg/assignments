@@ -1,0 +1,5 @@
+E:\Projects\4. Console-Input-Output-Homework\06.QuadtraticEquation\bin\Debug\06.QuadtraticEquation.exe.config
+E:\Projects\4. Console-Input-Output-Homework\06.QuadtraticEquation\bin\Debug\06.QuadtraticEquation.exe
+E:\Projects\4. Console-Input-Output-Homework\06.QuadtraticEquation\bin\Debug\06.QuadtraticEquation.pdb
+E:\Projects\4. Console-Input-Output-Homework\06.QuadtraticEquation\obj\Debug\06.QuadtraticEquation.exe
+E:\Projects\4. Console-Input-Output-Homework\06.QuadtraticEquation\obj\Debug\06.QuadtraticEquation.pdb

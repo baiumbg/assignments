@@ -1,0 +1,8 @@
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\bin\Debug\PrintASCII.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\bin\Debug\PrintASCII.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\bin\Debug\PrintASCII.pdb
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\obj\Debug\PrintASCII.exe
+c:\users\veso\documents\visual studio 2013\Projects\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\obj\Debug\PrintASCII.pdb
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\bin\Debug\PrintASCII.exe.config
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\obj\Debug\PrintASCII.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintASCII\obj\Debug\PrintASCII.pdb

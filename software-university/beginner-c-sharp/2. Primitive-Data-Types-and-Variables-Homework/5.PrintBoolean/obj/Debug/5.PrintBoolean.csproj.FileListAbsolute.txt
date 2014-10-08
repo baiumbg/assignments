@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintGender\bin\Debug\PrintGender.exe.config
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintGender\obj\Debug\PrintGender.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintGender\obj\Debug\PrintGender.pdb
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintGender\bin\Debug\PrintGender.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\PrintGender\bin\Debug\PrintGender.pdb

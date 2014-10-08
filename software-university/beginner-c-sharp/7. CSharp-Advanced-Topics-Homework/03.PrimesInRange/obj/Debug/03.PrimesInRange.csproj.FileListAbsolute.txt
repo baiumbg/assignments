@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\03.PrimesInRange\bin\Debug\03.PrimesInRange.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\03.PrimesInRange\bin\Debug\03.PrimesInRange.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\03.PrimesInRange\bin\Debug\03.PrimesInRange.pdb
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\03.PrimesInRange\obj\Debug\03.PrimesInRange.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\03.PrimesInRange\obj\Debug\03.PrimesInRange.pdb

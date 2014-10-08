@@ -1,0 +1,11 @@
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\11.BitExtract\bin\Debug\11.BitExtract.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\11.BitExtract\obj\Debug\11.BitExtract.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\11.BitExtract\obj\Debug\11.BitExtract.pdb
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\11.BitExtract\bin\Debug\11.BitExtract.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\11.BitExtract\bin\Debug\11.BitExtract.pdb
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\11.BitExtract\bin\Debug\11.BitExtract.exe.config
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\11.BitExtract\obj\Debug\11.BitExtract.exe
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\11.BitExtract\obj\Debug\11.BitExtract.pdb
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\11.Extract3rdBit\bin\Debug\11.BitExtract.exe.config
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\11.Extract3rdBit\obj\Debug\11.BitExtract.exe
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\11.Extract3rdBit\obj\Debug\11.BitExtract.pdb

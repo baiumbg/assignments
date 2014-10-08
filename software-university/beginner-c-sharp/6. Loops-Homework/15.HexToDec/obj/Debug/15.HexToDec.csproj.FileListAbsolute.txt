@@ -1,0 +1,6 @@
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\15.HexToDec\bin\Debug\15.HexToDec.exe.config
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\15.HexToDec\bin\Debug\15.HexToDec.exe
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\15.HexToDec\bin\Debug\15.HexToDec.pdb
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\15.HexToDec\obj\Debug\15.HexToDec.csprojResolveAssemblyReference.cache
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\15.HexToDec\obj\Debug\15.HexToDec.exe
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\15.HexToDec\obj\Debug\15.HexToDec.pdb

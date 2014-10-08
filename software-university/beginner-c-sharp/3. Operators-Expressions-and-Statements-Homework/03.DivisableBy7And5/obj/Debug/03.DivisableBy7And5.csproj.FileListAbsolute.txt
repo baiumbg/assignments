@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\03.DivisableBy7And5\bin\Debug\03.DivisableBy7And5.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\03.DivisableBy7And5\bin\Debug\03.DivisableBy7And5.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\03.DivisableBy7And5\bin\Debug\03.DivisableBy7And5.pdb
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\03.DivisableBy7And5\obj\Debug\03.DivisableBy7And5.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\03.DivisableBy7And5\obj\Debug\03.DivisableBy7And5.pdb

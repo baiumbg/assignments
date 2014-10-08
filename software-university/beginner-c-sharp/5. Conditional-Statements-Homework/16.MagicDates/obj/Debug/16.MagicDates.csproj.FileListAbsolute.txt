@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\16.MagicDates\bin\Debug\16.MagicDates.exe.config
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\16.MagicDates\bin\Debug\16.MagicDates.exe
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\16.MagicDates\bin\Debug\16.MagicDates.pdb
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\16.MagicDates\obj\Debug\16.MagicDates.exe
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\16.MagicDates\obj\Debug\16.MagicDates.pdb

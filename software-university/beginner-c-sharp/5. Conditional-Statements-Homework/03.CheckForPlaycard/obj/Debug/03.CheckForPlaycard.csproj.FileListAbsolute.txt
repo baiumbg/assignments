@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\03.CheckForPlaycard\bin\Debug\03.CheckForPlaycard.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\03.CheckForPlaycard\bin\Debug\03.CheckForPlaycard.exe
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\03.CheckForPlaycard\bin\Debug\03.CheckForPlaycard.pdb
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\03.CheckForPlaycard\obj\Debug\03.CheckForPlaycard.exe
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\03.CheckForPlaycard\obj\Debug\03.CheckForPlaycard.pdb

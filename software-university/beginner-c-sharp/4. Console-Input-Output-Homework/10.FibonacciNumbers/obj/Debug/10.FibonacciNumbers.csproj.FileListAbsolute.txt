@@ -1,0 +1,5 @@
+E:\Projects\4. Console-Input-Output-Homework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+E:\Projects\4. Console-Input-Output-Homework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+E:\Projects\4. Console-Input-Output-Homework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+E:\Projects\4. Console-Input-Output-Homework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+E:\Projects\4. Console-Input-Output-Homework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb

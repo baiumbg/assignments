@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\04.PrintDeck\bin\Debug\04.PrintDeck.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\04.PrintDeck\bin\Debug\04.PrintDeck.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\04.PrintDeck\bin\Debug\04.PrintDeck.pdb
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\04.PrintDeck\obj\Debug\04.PrintDeck.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\04.PrintDeck\obj\Debug\04.PrintDeck.pdb

@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\HelloWorldObject\bin\Debug\HelloWorldObject.exe.config
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\HelloWorldObject\obj\Debug\HelloWorldObject.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\HelloWorldObject\obj\Debug\HelloWorldObject.pdb
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\HelloWorldObject\bin\Debug\HelloWorldObject.exe
+E:\Dropbox\Workspace\2. Primitive-Data-Types-and-Variables-Homework\HelloWorldObject\bin\Debug\HelloWorldObject.pdb

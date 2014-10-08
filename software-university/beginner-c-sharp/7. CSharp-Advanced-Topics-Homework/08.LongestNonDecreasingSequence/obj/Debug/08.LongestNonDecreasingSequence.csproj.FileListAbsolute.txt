@@ -1,0 +1,12 @@
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\08.LongestNonDecreasingSequence\bin\Debug\08.LongestNonDecreasingSequence.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\08.LongestNonDecreasingSequence\bin\Debug\08.LongestNonDecreasingSequence.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\08.LongestNonDecreasingSequence\bin\Debug\08.LongestNonDecreasingSequence.pdb
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\08.LongestNonDecreasingSequence\obj\Debug\08.LongestNonDecreasingSequence.csprojResolveAssemblyReference.cache
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\08.LongestNonDecreasingSequence\obj\Debug\08.LongestNonDecreasingSequence.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\08.LongestNonDecreasingSequence\obj\Debug\08.LongestNonDecreasingSequence.pdb
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\08.LongestNonDecreasingSequence\bin\Debug\08.LongestNonDecreasingSequence.exe.config
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\08.LongestNonDecreasingSequence\obj\Debug\08.LongestNonDecreasingSequence.exe
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\08.LongestNonDecreasingSequence\obj\Debug\08.LongestNonDecreasingSequence.pdb
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\08.LongestNonDecreasingSequence\bin\Debug\08.LongestNonDecreasingSequence.exe
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\08.LongestNonDecreasingSequence\bin\Debug\08.LongestNonDecreasingSequence.pdb
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\08.LongestNonDecreasingSequence\obj\Debug\08.LongestNonDecreasingSequence.csprojResolveAssemblyReference.cache

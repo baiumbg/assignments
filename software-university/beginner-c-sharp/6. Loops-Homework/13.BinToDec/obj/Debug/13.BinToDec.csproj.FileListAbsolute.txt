@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\13.BinToDec\bin\Debug\13.BinToDec.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\13.BinToDec\bin\Debug\13.BinToDec.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\13.BinToDec\bin\Debug\13.BinToDec.pdb
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\13.BinToDec\obj\Debug\13.BinToDec.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\13.BinToDec\obj\Debug\13.BinToDec.pdb

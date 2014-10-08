@@ -1,0 +1,6 @@
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\21.OddEvenNumbers\bin\Debug\21.OddEvenNumbers.exe.config
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\21.OddEvenNumbers\bin\Debug\21.OddEvenNumbers.exe
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\21.OddEvenNumbers\bin\Debug\21.OddEvenNumbers.pdb
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\21.OddEvenNumbers\obj\Debug\21.OddEvenNumbers.exe
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\21.OddEvenNumbers\obj\Debug\21.OddEvenNumbers.pdb
+C:\Users\Veso\documents\visual studio 2013\Projects\6. Loops-Homework\21.OddEvenNumbers\obj\Debug\21.OddEvenNumbers.csprojResolveAssemblyReference.cache

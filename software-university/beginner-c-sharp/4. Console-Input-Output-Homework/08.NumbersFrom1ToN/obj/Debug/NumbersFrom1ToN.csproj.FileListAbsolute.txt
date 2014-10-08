@@ -1,0 +1,5 @@
+E:\Projects\4. Console-Input-Output-Homework\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+E:\Projects\4. Console-Input-Output-Homework\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+E:\Projects\4. Console-Input-Output-Homework\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+E:\Projects\4. Console-Input-Output-Homework\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+E:\Projects\4. Console-Input-Output-Homework\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

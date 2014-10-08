@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\02.NotDivisableBy3And7\bin\Debug\02.NotDivisableBy3And7.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\02.NotDivisableBy3And7\bin\Debug\02.NotDivisableBy3And7.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\02.NotDivisableBy3And7\bin\Debug\02.NotDivisableBy3And7.pdb
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\02.NotDivisableBy3And7\obj\Debug\02.NotDivisableBy3And7.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\02.NotDivisableBy3And7\obj\Debug\02.NotDivisableBy3And7.pdb

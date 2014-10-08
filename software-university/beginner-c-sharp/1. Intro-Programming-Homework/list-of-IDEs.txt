@@ -1,0 +1,14 @@
+--- Eclipse ---
+Most known for its Java development capabilities. Eclipse may also be used to develop applications in other programming languages: C, C++, Fortran, Haskell, JavaScript, Perl, PHP, Python, Ruby (including Ruby on Rails framework), Erlang and others.
+
+--- NetBeans ---
+NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5. It is also an application platform framework for Java desktop applications and others. The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+--- Code::Blocks ---
+Code::Blocks is a free and open source, cross-platform IDE which supports multiple compilers including GCC and Visual C++. It is developed in C++ using wxWidgets as the GUI toolkit. Currently, Code::Blocks is oriented towards C, C++, and Fortran.
+
+--- IntelliJ IDEA ---
+IntelliJ IDEA is a Java IDE by JetBrains, available as an Apache 2 Licensed community edition and commercial edition. It is often simply referred to as "IDEA" or "IntelliJ". Its current supported languages are: Java, JavaFX, JavaScript, CoffeeScript, Node.js, HTML/XHTML/CSSXML/XSL, ActionScript/MXML, Python, Ruby/JRuby, GroovySQL and many others are supported via 3rd party plugins.
+
+--- Android Studio ---
+Android Studio is an integrated development environment (IDE) for the Android platform. It was announced on 16 May 2013 at the Google I/O conference by Google's Product Manager, Ellie Powers. Based on JetBrains' IntelliJ IDEA software, the Studio is designed specifically for Android development. It is available for download on Windows, Mac OS X and Linux.

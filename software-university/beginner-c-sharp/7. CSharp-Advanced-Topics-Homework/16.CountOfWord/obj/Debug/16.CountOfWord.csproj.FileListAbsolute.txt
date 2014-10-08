@@ -1,0 +1,5 @@
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\16.CountOfWord\bin\Debug\16.CountOfWord.exe.config
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\16.CountOfWord\bin\Debug\16.CountOfWord.exe
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\16.CountOfWord\bin\Debug\16.CountOfWord.pdb
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\16.CountOfWord\obj\Debug\16.CountOfWord.exe
+E:\Dropbox\Workspace\nakovhomework\7. CSharp-Advanced-Topics-Homework\16.CountOfWord\obj\Debug\16.CountOfWord.pdb

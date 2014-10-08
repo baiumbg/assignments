@@ -1,0 +1,5 @@
+E:\Projects\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+E:\Projects\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+E:\Projects\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+E:\Projects\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+E:\Projects\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

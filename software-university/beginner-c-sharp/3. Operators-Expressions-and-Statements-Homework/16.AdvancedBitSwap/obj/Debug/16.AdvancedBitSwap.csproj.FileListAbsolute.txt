@@ -1,0 +1,6 @@
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\16.AdvancedBitSwap\bin\Debug\16.AdvancedBitSwap.exe.config
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\16.AdvancedBitSwap\bin\Debug\16.AdvancedBitSwap.exe
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\16.AdvancedBitSwap\bin\Debug\16.AdvancedBitSwap.pdb
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\16.AdvancedBitSwap\obj\Debug\16.AdvancedBitSwap.csprojResolveAssemblyReference.cache
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\16.AdvancedBitSwap\obj\Debug\16.AdvancedBitSwap.exe
+E:\Dropbox\Workspace\nakovhomework\3. Operators-Expressions-and-Statements-Homework\16.AdvancedBitSwap\obj\Debug\16.AdvancedBitSwap.pdb

@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\12.RandomizeArray\bin\Debug\12.RandomizeArray.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\12.RandomizeArray\bin\Debug\12.RandomizeArray.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\12.RandomizeArray\bin\Debug\12.RandomizeArray.pdb
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\12.RandomizeArray\obj\Debug\12.RandomizeArray.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\12.RandomizeArray\obj\Debug\12.RandomizeArray.pdb

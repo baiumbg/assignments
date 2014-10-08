@@ -1,0 +1,8 @@
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\09.InputType\bin\Debug\09.InputType.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\09.InputType\bin\Debug\09.InputType.exe
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\09.InputType\bin\Debug\09.InputType.pdb
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\09.InputType\obj\Debug\09.InputType.exe
+c:\users\veso\documents\visual studio 2013\Projects\5. Conditional-Statements-Homework\09.InputType\obj\Debug\09.InputType.pdb
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\09.InputType\bin\Debug\09.InputType.exe.config
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\09.InputType\obj\Debug\09.InputType.exe
+E:\Dropbox\Workspace\nakovhomework\5. Conditional-Statements-Homework\09.InputType\obj\Debug\09.InputType.pdb

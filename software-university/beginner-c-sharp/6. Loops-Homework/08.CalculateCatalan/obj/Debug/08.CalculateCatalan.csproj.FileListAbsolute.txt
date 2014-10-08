@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\08.CalculateCatalan\bin\Debug\08.CalculateCatalan.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\08.CalculateCatalan\bin\Debug\08.CalculateCatalan.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\08.CalculateCatalan\bin\Debug\08.CalculateCatalan.pdb
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\08.CalculateCatalan\obj\Debug\08.CalculateCatalan.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\08.CalculateCatalan\obj\Debug\08.CalculateCatalan.pdb

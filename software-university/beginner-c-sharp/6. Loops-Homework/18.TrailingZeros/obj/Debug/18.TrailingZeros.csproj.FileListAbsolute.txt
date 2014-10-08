@@ -1,0 +1,5 @@
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\18.TrailingZeros\bin\Debug\18.TrailingZeros.exe.config
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\18.TrailingZeros\bin\Debug\18.TrailingZeros.exe
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\18.TrailingZeros\bin\Debug\18.TrailingZeros.pdb
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\18.TrailingZeros\obj\Debug\18.TrailingZeros.exe
+C:\Users\Veso\Documents\Visual Studio 2013\Projects\6. Loops-Homework\18.TrailingZeros\obj\Debug\18.TrailingZeros.pdb

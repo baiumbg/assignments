@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\03.MinMaxSumAverage\bin\Debug\03.MinMaxSumAverage.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\03.MinMaxSumAverage\bin\Debug\03.MinMaxSumAverage.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\03.MinMaxSumAverage\bin\Debug\03.MinMaxSumAverage.pdb
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\03.MinMaxSumAverage\obj\Debug\03.MinMaxSumAverage.exe
+c:\users\veso\documents\visual studio 2013\Projects\6. Loops-Homework\03.MinMaxSumAverage\obj\Debug\03.MinMaxSumAverage.pdb

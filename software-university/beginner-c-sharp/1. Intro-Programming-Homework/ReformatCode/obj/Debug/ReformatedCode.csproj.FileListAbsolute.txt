@@ -1,0 +1,5 @@
+E:\Projects\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe.config
+E:\Projects\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe
+E:\Projects\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.pdb
+E:\Projects\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.exe
+E:\Projects\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.pdb

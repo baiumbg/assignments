@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.pdb
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.exe
+c:\users\veso\documents\visual studio 2013\Projects\7. CSharp-Advanced-Topics-Homework\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.pdb

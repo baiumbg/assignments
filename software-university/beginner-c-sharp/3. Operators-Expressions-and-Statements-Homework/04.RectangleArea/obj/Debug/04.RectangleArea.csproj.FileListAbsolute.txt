@@ -1,0 +1,5 @@
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\04.RectangleArea\bin\Debug\04.RectangleArea.exe.config
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\04.RectangleArea\bin\Debug\04.RectangleArea.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\04.RectangleArea\bin\Debug\04.RectangleArea.pdb
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\04.RectangleArea\obj\Debug\04.RectangleArea.exe
+c:\users\veso\documents\visual studio 2013\Projects\3. Operators-Expressions-and-Statements-Homework\04.RectangleArea\obj\Debug\04.RectangleArea.pdb
