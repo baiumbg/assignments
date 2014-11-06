@@ -71,9 +71,9 @@ int main() {
   edges[4] = Edge(3, 4);
   Graph* test = new Graph(edges, 5);
   Edge e(1, 4);
-  test->print();
-  test->insertNode(4);
-  cout<<"----------------\n";
-  test->print();
+  test -> print();
+  test -> insertNode(4);
+  cout << "----------------\n";
+  test -> print();
   return 0;
 }
