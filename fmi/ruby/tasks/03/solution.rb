@@ -33,13 +33,15 @@ module RBFS
       end
     end
 
-    def check_boolean(data)
+    def self.check_boolean(data)
       data == "true" ? true : false
     end
 
-    def format_num(data)
+    def self.format_num(data)
       data.include?('.') ? data.to_f : data.to_i
     end
+
+    private_class_method :check_boolean, :format_num
   end
 
   class Directory
