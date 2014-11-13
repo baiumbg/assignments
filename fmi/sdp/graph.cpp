@@ -1,79 +1,96 @@
 #include <iostream>
 #include <map>
 #include <vector>
+#include <queue>
 using namespace std;
 
+template <typename T>
 struct Edge {
-  int start;
-  int end;
+  T start;
+  T end;
   Edge() {}
-  Edge(int first, int second) {
+  Edge(T first, T second) {
     start = first;
     end = second;
   }
 };
 
+template <typename T>
 class Graph {
 
 private:
-  map<int, vector<int> > graph;
+  map<T, vector<T> > graph;
 
 public:
-  Graph(Edge* edges, int m) {
+  Graph(Edge<T>* edges, int m) {
     for(int i = 0; i < m; i ++) {
       graph[edges[i].start].push_back(edges[i].end);
     }
   }
 
-  void insertEdge(Edge e) {
+  void insertEdge(Edge<T> e) {
     graph[e.start].push_back(e.end);
   }
 
-  void insertNode(int node) {
-    graph[node] = vector<int>();
+  void insertNode(T node) {
+    graph[node] = vector<T>();
   }
 
-  void removeEdge(Edge e) {
+  void removeEdge(Edge<T> e) {
     for(int i = 0; i < graph[e.start].size(); i++) {
       if(graph[e.start].at(i) == e.end)
         graph[e.start].erase(graph[e.start].begin() + i);
     }
   }
 
-  void removeNode(int node) {
-    for(map<int, vector<int> >::iterator i = graph.begin(); i != graph.end(); i++) {
+  void removeNode(T node) {
+    for(typename map<T, vector<T> >::iterator i = graph.begin(); i != graph.end(); i++) {
       for(int j = 0; j < i -> second.size(); j++) {
         if(i -> second.at(j) == node) i -> second.erase(i -> second.begin() + j);
       }
     }
-    map<int, vector<int> >::iterator it = graph.find(node);
+    typename map<T, vector<T> >::iterator it = graph.find(node);
     graph.erase(it);
   }
 
   void print() {
-    for(map<int, vector<int> >::iterator i = graph.begin(); i!=graph.end(); i++) {
-      cout << i -> first << " -> ";
-      for(int j = 0; j < i -> second.size(); j++) {
-        cout << i -> second.at(j) << ", ";
+    cout<<"graph G {\n";
+    for(typename map<T, vector<T> >::iterator i = graph.begin(); i != graph.end(); i++) {
+      if(i->second.size() > 0) {
+        for(typename vector<T>::iterator j = i -> second.begin(); j != i -> second.end(); j++) {
+          cout << '\t' << i -> first << " -- " << *j << endl;
+        }
       }
-      if (i -> second.size() > 0) cout << i -> second.at(i -> second.size() - 1);
-      cout << endl;
+      else {
+        cout << '\t' << i->first << endl;
+      }
+    }
+    cout<<"}";
+  }
+
+  void bfs(T start) {
+    queue<T> Q;
+    Q.push(start);
+    while(!Q.empty()) {
+      T x = Q.front();
+      Q.pop();
+      for(typename vector<T>::iterator i = graph[x].begin(); i!=graph[x].end(); i++) {
+        Q.push(*i);
+      }
+      cout << x;
     }
   }
 };
 
 int main() {
-  Edge* edges = new Edge[5];
-  edges[0] = Edge(1, 2);
-  edges[1] = Edge(1, 3);
-  edges[2] = Edge(2, 4);
-  edges[3] = Edge(2, 3);
-  edges[4] = Edge(3, 4);
-  Graph* test = new Graph(edges, 5);
-  Edge e(1, 4);
-  test -> print();
-  test -> insertNode(4);
-  cout << "----------------\n";
-  test -> print();
+  Edge<char>* edges = new Edge<char>[5];
+  edges[0] = Edge<char>('A', 'B');
+  edges[1] = Edge<char>('A', 'C');
+  edges[2] = Edge<char>('B', 'D');
+  edges[3] = Edge<char>('B', 'C');
+  edges[4] = Edge<char>('C', 'D');
+  Graph<char>* test = new Graph<char>(edges, 5);
+  test->insertNode('E');
+  test->print();
   return 0;
 }
