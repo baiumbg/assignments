@@ -1,22 +1,22 @@
-БЪЛГАРСКИ:
+±К»і°АБєё:
 
-Инсталиране на библиотеката(Windows):
-Разархивирайте архива и преместете:
-- pdcurses.dll в MinGW/bin
-- pdcurses.lib в MinGW/lib
-- curses.h, panel.h в MinGW/include
+ёЭбвРЫРжШп ЭР PDCurses(Windows):
+АРЧРаеШТШаРЩвХ РаеШТР Ш ЯаХЬХбвХвХ:
+- pdcurses.dll Т MinGW/bin
+- pdcurses.lib Т MinGW/lib
+- curses.h, panel.h Т MinGW/include
 
-Инсталиране на библиотеката(Ubuntu):
-- Отворете терминала
-- напишете "sudo apt-get install libncurses5-dev"
+ёЭбвРЫРжШп ЭР PDCurses(Ubuntu):
+- ЮвТЮаХвХ ВХаЬШЭРЫР
+- ШЧЯкЫЭХвХ "sudo apt-get install libncurses5-dev"
 
-Компилиране(Windows):
+єЮЬЯШЫРжШп(Windows):
 - g++ test.cpp Book.h User.h Library.h -o test -lpdcurses
 
-Компилиране(Ubuntu):
+єЮЬЯШЫРжШп(Ubuntu):
 - g++ test.cpp Book.h User.h Library.h -o test -lcurses
 
-Забележка: С командата "help" се извеждат всички основни команди налични на потребителите. С "help <команда>" се извежда информация за конкретна команда. За скролване на конзолата ползвайте Page Up и Page Down.
+·РСХЫХЦЪР: ЅРЯШиХвХ "help" ЧР ЮбЭЮТЭШвХ ЪЮЬРЭФШ. ЗаХЧ "help <ЪЮЬРЭФР>" ЬЮЦХвХ ФР ЭРгзШвХ ЯЮТХзХ ЧР бШЭвРЪбШбР ЭР ФРФХЭР ЪЮЬРЭФР. ·Р бЪаЮЫТРЭХ ЭР ЪЮЭЧЮЫРвР ШЧЯЮЫЧТРЩвХ Page Up Ш Page Down.
 
 ENGLISH:
 
