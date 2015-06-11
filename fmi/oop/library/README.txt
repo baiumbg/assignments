@@ -1,22 +1,22 @@
-±К»і°АБєё:
+Р‘РЄР›Р“РђР РЎРљР:
 
-ёЭбвРЫРжШп ЭР PDCurses(Windows):
-АРЧРаеШТШаРЩвХ РаеШТР Ш ЯаХЬХбвХвХ:
-- pdcurses.dll Т MinGW/bin
-- pdcurses.lib Т MinGW/lib
-- curses.h, panel.h Т MinGW/include
+РРЅСЃС‚Р°Р»Р°С†РёСЏ РЅР° PDCurses(Windows):
+Р Р°Р·Р°СЂС…РёРІРёСЂР°Р№С‚Рµ Р°СЂС…РёРІР° Рё РїСЂРµРјРµСЃС‚РµС‚Рµ:
+- pdcurses.dll РІ MinGW/bin
+- pdcurses.lib РІ MinGW/lib
+- curses.h, panel.h РІ MinGW/include
 
-ёЭбвРЫРжШп ЭР PDCurses(Ubuntu):
-- ЮвТЮаХвХ ВХаЬШЭРЫР
-- ШЧЯкЫЭХвХ "sudo apt-get install libncurses5-dev"
+РРЅСЃС‚Р°Р»Р°С†РёСЏ РЅР° PDCurses(Ubuntu):
+- РѕС‚РІРѕСЂРµС‚Рµ РўРµСЂРјРёРЅР°Р»Р°
+- РёР·РїСЉР»РЅРµС‚Рµ "sudo apt-get install libncurses5-dev"
 
-єЮЬЯШЫРжШп(Windows):
+РљРѕРјРїРёР»Р°С†РёСЏ(Windows):
 - g++ test.cpp Book.h User.h Library.h -o test -lpdcurses
 
-єЮЬЯШЫРжШп(Ubuntu):
+РљРѕРјРїРёР»Р°С†РёСЏ(Ubuntu):
 - g++ test.cpp Book.h User.h Library.h -o test -lcurses
 
-·РСХЫХЦЪР: ЅРЯШиХвХ "help" ЧР ЮбЭЮТЭШвХ ЪЮЬРЭФШ. ЗаХЧ "help <ЪЮЬРЭФР>" ЬЮЦХвХ ФР ЭРгзШвХ ЯЮТХзХ ЧР бШЭвРЪбШбР ЭР ФРФХЭР ЪЮЬРЭФР. ·Р бЪаЮЫТРЭХ ЭР ЪЮЭЧЮЫРвР ШЧЯЮЫЧТРЩвХ Page Up Ш Page Down.
+Р—Р°Р±РµР»РµР¶РєР°: РќР°РїРёС€РµС‚Рµ "help" Р·Р° РѕСЃРЅРѕРІРЅРёС‚Рµ РєРѕРјР°РЅРґРё. Р§СЂРµР· "help <РєРѕРјР°РЅРґР°>" РјРѕР¶РµС‚Рµ РґР° РЅР°СѓС‡РёС‚Рµ РїРѕРІРµС‡Рµ Р·Р° СЃРёРЅС‚Р°РєСЃРёСЃР° РЅР° РґР°РґРµРЅР° РєРѕРјР°РЅРґР°. Р—Р° СЃРєСЂРѕР»РІР°РЅРµ РЅР° РєРѕРЅР·РѕР»Р°С‚Р° РёР·РїРѕР»Р·РІР°Р№С‚Рµ Page Up Рё Page Down.
 
 ENGLISH:
 
